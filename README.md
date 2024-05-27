@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NilimaS26 aka Nilima Satapathy
-- 👀 I’m interested in Data Analytics and Data science
-- 🌱 I’m skilled in SQL, Python, Microsoft Excel, Pandas
+- 👀 I’m interested in Devops
+- 🌱 I’m skilled in Shell scripting, python, kubernetes
 - 📫 How to reach me Email: satapathynilima1@gmail.com
 
 <!---
